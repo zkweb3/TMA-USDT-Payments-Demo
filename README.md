@@ -13,7 +13,7 @@ This Demo TMA showcases the integration with [@tonconnect/ui-react](https://www.
 | --- |-------------------------------------------------------------------------|
 | **Get [TESTNET] Toncoins on your [Testnet TON Wallet](https://docs.ton.org/participate/wallets/apps#tonkeeper-test-environment) via [Test Giver Bot](https://t.me/testgiver_ton_bot).** | ![Test Giver Bot](static/t_me-testgiver_ton_bot.jpg)                    |
 | **Get [TESTNET] USDT on your Testnet TON Wallet via [USDT giver bot](https://t.me/testgiver_ton_usdt_bot). Testnet Toncoin from step (1) required for this step.** | ![USDT giver bot](static/t_me_testgiver_ton_usdt_bot.jpg)               |
-| **Experience [TESTNET] live demo at [tma_jetton_processing_bot](https://t.me/tma_jetton_processing_bot).** | ![tma_jetton_processing_bot](static/t_me-tma_jetton_processing_bot.jpg) |
+| **Experience [TESTNET] live demo at [MyQuil_bot](https://t.me/MyQuil_bot).** | ![MyQuil_bot](static/t_me-MyQuil_bot.jpg) |
 
 ## Prerequisites
 
